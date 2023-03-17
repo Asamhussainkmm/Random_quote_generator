@@ -1,0 +1,22 @@
+form {
+    background-color: black;
+    padding: 2%;
+    border-radius: 10px;
+    width: 70%;
+}
+
+form p{
+    size: 2rem;
+    color: red;
+}
+
+form input{
+    background-color: brown;
+    border: none;
+    border-radius: 20px;
+    width: 10rem;
+    height: 2.1rem;
+    margin: 2%;
+    color: white;
+    font-weight: 600;
+}
